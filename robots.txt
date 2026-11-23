@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dattasub.github.io/sitemap-index.xml
